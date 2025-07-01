@@ -22,8 +22,3 @@ Elle permet à l'utilisateur de sélectionner une ville dans une liste et d'affi
 
 ---
 
-## Installation
-
-1. Cloner le dépôt :  
-```bash
-git clone https://github.com/tonpseudo/weather-wizard.git
